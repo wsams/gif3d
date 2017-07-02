@@ -1,0 +1,20 @@
+.container {
+    max-width:730px;
+}
+
+#gifversed {
+    text-align:center;
+}
+
+#gifversed img {
+    -moz-box-shadow:0px 0px 8px #404040;
+    -webkit-box-shadow:0px 0px 8px #404040;
+    -o-box-shadow:0px 0px 8px #404040;
+    box-shadow:0px 0px 8px #404040;
+}
+
+.heading {
+    color:#428BCA;
+    font-style:italic;
+    -webkit-box-reflect:below -16px;
+}
